@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Портфолио on Helen Y.</title>
+    <link>https://example.com/portfolio/</link>
+    <description>Recent content in Портфолио on Helen Y.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <copyright>© Helen</copyright>
+    <lastBuildDate>Thu, 02 May 2019 19:47:09 +0200</lastBuildDate><atom:link href="https://example.com/portfolio/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Типо мой проект</title>
+      <link>https://example.com/portfolio/sample-project/</link>
+      <pubDate>Thu, 02 May 2019 19:47:09 +0200</pubDate>
+      
+      <guid>https://example.com/portfolio/sample-project/</guid>
+      <description>Тут должно быть описание моего проекта.
+Ну мы когда-то участвовали на фестивале комикон сибиреа, вот эти фоточки оттуда. Тут я продолжаю описывать этот замечательный проект&amp;hellip; Добавлю смайлик для поднятия настроения 💃
+Ниже идут типо отзывы, но мозгов у меня не хватило как переименовать это на русский ⬇️</description>
+    </item>
+    
+  </channel>
+</rss>

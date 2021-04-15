@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Посты on Helen Y.</title>
+    <link>https://example.com/post/</link>
+    <description>Recent content in Посты on Helen Y.</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>ru-ru</language>
+    <copyright>© Helen</copyright>
+    <lastBuildDate>Fri, 03 May 2019 09:37:55 +0200</lastBuildDate><atom:link href="https://example.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Фавориты</title>
+      <link>https://example.com/post/getting-started/</link>
+      <pubDate>Fri, 03 May 2019 09:37:55 +0200</pubDate>
+      
+      <guid>https://example.com/post/getting-started/</guid>
+      <description>Тут можно увидеть фоточки танцоров</description>
+    </item>
+    
+    <item>
+      <title>Ещё фото</title>
+      <link>https://example.com/post/archetypes/</link>
+      <pubDate>Thu, 02 May 2019 19:25:30 +0200</pubDate>
+      
+      <guid>https://example.com/post/archetypes/</guid>
+      <description></description>
+    </item>
+    
+    <item>
+      <title>Жми сюда</title>
+      <link>https://example.com/post/config-file/</link>
+      <pubDate>Sat, 20 Apr 2019 16:18:12 +0100</pubDate>
+      
+      <guid>https://example.com/post/config-file/</guid>
+      <description>Снова фоточка ахахаха</description>
+    </item>
+    
+    <item>
+      <title>Фантазия на 0</title>
+      <link>https://example.com/post/define-specific-og-image/</link>
+      <pubDate>Sat, 20 Apr 2019 11:14:59 +0200</pubDate>
+      
+      <guid>https://example.com/post/define-specific-og-image/</guid>
+      <description>Описание, вау</description>
+    </item>
+    
+  </channel>
+</rss>
